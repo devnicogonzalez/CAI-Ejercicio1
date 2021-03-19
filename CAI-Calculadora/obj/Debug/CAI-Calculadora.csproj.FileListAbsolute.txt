@@ -1,0 +1,6 @@
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/bin/Debug/CAI-Calculadora.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/bin/Debug/CAI-Calculadora.pdb
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/obj/Debug/CAI-Calculadora.csprojAssemblyReference.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/obj/Debug/CAI-Calculadora.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/obj/Debug/CAI-Calculadora.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Calculadora/obj/Debug/CAI-Calculadora.pdb

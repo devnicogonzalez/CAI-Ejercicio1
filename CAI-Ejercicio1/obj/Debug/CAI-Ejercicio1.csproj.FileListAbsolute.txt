@@ -1,0 +1,11 @@
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Ejercicio1.exe
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Ejercicio1.pdb
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/obj/Debug/CAI-Ejercicio1.csprojAssemblyReference.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/obj/Debug/CAI-Ejercicio1.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/obj/Debug/CAI-Ejercicio1.exe
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/obj/Debug/CAI-Ejercicio1.pdb
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Calculadora.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Calculadora.pdb
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/obj/Debug/CAI-Ejercicio1.csproj.CopyComplete
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Validaciones.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Ejercicio1/bin/Debug/CAI-Validaciones.pdb

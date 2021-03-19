@@ -1,0 +1,6 @@
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/obj/Debug/CAI-Validaciones.csprojAssemblyReference.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/obj/Debug/CAI-Validaciones.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/bin/Debug/CAI-Validaciones.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/bin/Debug/CAI-Validaciones.pdb
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/obj/Debug/CAI-Validaciones.dll
+/Users/niko/Projects/CAI-Ejercicio1/CAI-Validaciones/obj/Debug/CAI-Validaciones.pdb
